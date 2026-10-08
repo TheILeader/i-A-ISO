@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>I+A OS</title>
+  <style>
+    body { background: #0a0a2a; color: white; font-family: sans-serif; text-align: center; padding: 50px; }
+    h1 { color: #ff3333; font-size: 60px; }
+    h2 { color: #3366ff; }
+    a { color: #3366ff; font-size: 20px; }
+  </style>
+</head>
+<body>
+  <h1>I+A</h1>
+  <h2>A lightweight gaming Linux distro</h2>
+  <p>~300 MB RAM · XFCE · Steam · Wine · NoRisk</p>
+  <a href="I+A_amd64.iso">Download I+A</a>
+</body>
+</html>   
